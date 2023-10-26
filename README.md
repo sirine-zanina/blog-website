@@ -1,2 +1,2 @@
-#Next.js Blog Website
+Next.js Blog Website
 ---
